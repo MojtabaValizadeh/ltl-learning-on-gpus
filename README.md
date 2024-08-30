@@ -2,8 +2,7 @@
 
 This repo contains all the code and benchmarks for reproducing the paper
 
-- *LTL learning on GPUs*, by [M. Valizadeh](https://www.linkedin.com/in/mojtaba-valizadeh-phd-3b98b67a/), [N. Fijalkow](https://games-automata-play.com/) and
-[M. Berger](https://martinfriedrichberger.net/). Draft: https://arxiv.org/abs/2402.12373
+- *LTL learning on GPUs*, by [M. Valizadeh](https://www.linkedin.com/in/mojtaba-valizadeh-phd-3b98b67a/), [N. Fijalkow](https://games-automata-play.com/) and [M. Berger](https://martinfriedrichberger.net/). Draft: https://arxiv.org/abs/2402.12373, publisher's version: https://link.springer.com/chapter/10.1007/978-3-031-65633-0_10.
 
 This work builds on https://github.com/MojtabaValizadeh/paresy and addresses scalability issues. The paper  appeared at CAV 2024 (36th International Conference on Computer Aided Verification) in July 2024. The file 
 
